@@ -1,0 +1,2 @@
+"""MediaPipe curl demo package."""
+
