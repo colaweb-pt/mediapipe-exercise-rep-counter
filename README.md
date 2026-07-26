@@ -193,7 +193,7 @@ No statistical accuracy claim is made because the project does not include a lab
 
 ## Author
 
-[colaweb on GitHub](https://github.com/colaweb)
+[colaweb on GitHub](https://github.com/colaweb-pt)
 
 ## License
 
